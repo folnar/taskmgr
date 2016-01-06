@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HoldenTaskManager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="odbc_conn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dsn=ibis_dev;server=192.168.2.207;database=folnar;port=3306</Value>
+    </Setting>
+    <Setting Name="CurrentVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.4.5</Value>
+    </Setting>
+    <Setting Name="InstallDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I:\_Temporary Job File\dcasale\TaskMgr_Install</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
